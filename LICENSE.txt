@@ -1,0 +1,17 @@
+/**
+ * WithPersian, A simple library for Persian language localization
+ *
+ * Copyright (c) 2013 Reza Farhadian <R3ZA.FARHADIAN@YAHOO.COM> - First Idea By Usablica
+ * http://iReza.Blog.Ir - Http://Usabli.Ca
+ *
+ * The MIT License (MIT)
+ *
+ * e.g : open ex.php
+ *
+ * @package    WithPesian!
+ * @author     Reza Farhadian <R3ZA.FARHADIAN@YAHOO.COM> - Afshin Mehrabani <afshin.meh@gmail.com>
+ * @copyright  2013
+ * @license    http://opensource.org/licenses/mit-license.php The MIT License
+ * @link       https://github.com/reza-farhadian/WithPersian
+ * @version    1.0.0
+*/
